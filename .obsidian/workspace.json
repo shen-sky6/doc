@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作文档/0429.md",
+                "file": "笔记/MySQL-8安装.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0429"
+              "title": "MySQL-8安装"
             }
           }
         ]
@@ -162,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,12 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "866424c5017ae8d4",
+  "active": "ec7d4532f8eb5532",
   "lastOpenFiles": [
+    "工作文档/0429.md",
+    "README.md",
     "Pasted image 20250429150557.png",
     "Pasted image 20250429150438.png",
     "笔记/MySQL-8安装.md",
-    "工作文档/0429.md",
     "笔记/git命令、规范.md",
     "工作文档/接口文档：饿了么单点登录.md",
     "笔记/Elasticsearch 主要查询语法的分类和详细说明，帮助您全面掌握其核心功能.md",
