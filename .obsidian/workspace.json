@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-04-29.md",
+                "file": "笔记/MySQL-8安装.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-29"
+              "title": "MySQL-8安装"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/Elasticsearch 主要查询语法的分类和详细说明，帮助您全面掌握其核心功能.md",
+                "file": "笔记/git命令、规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Elasticsearch 主要查询语法的分类和详细说明，帮助您全面掌握其核心功能 的出链列表"
+              "title": "git命令、规范 的出链列表"
             }
           },
           {
@@ -128,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/git命令、规范.md",
+                "file": "笔记/MySQL-8安装.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git命令、规范 的大纲"
+              "title": "MySQL-8安装 的大纲"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,16 +181,16 @@
   },
   "active": "0ef8dc1a30e46d1e",
   "lastOpenFiles": [
-    "笔记/Elasticsearch 查询语法及其含义.md",
-    "2025-04-29.md",
-    "README.md",
-    "笔记/MySQL-8安装.md",
     "笔记/git命令、规范.md",
-    "笔记/Elasticsearch 主要查询语法的分类和详细说明，帮助您全面掌握其核心功能.md",
-    "工作文档/接口文档：饿了么单点登录.md",
-    "Pasted image 20250429150438.png",
+    "README.md",
     "Pasted image 20250429150557.png",
-    "工作文档/0429.md",
+    "Pasted image 20250429150438.png",
+    "工作文档/接口文档：饿了么单点登录.md",
+    "笔记/Elasticsearch 查询语法及其含义.md",
+    "工作文档/2025-04-29.md",
+    "2025-04-29.md",
+    "笔记/Elasticsearch 主要查询语法的分类和详细说明，帮助您全面掌握其核心功能.md",
+    "笔记/MySQL-8安装.md",
     "0001-1.patch"
   ]
 }
