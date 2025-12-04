@@ -75,3 +75,11 @@ bash
 - 如果显示 `You have unmerged paths.` → 表示还没提交，适合用 `git merge --abort`
     
 - 如果显示 `nothing to commit` 或 `working tree clean` → 表示已经提交，但未推送
+
+
+
+## 修改最近一次提交的备注
+
+```bash
+git commit --amend -m "新的提交备注"
+```
