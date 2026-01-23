@@ -8,12 +8,6 @@
 # 如果你不需要同步插件的设置（只同步笔记本身）
 # .obsidian/plugins/
 
-# 操作系统/编辑器的冗余文件
-.DS_Store
-Thumbs.db
-*.log
-
 # 编程相关的配置（如你截图中的 .idea 文件夹）
 .idea/
 .vscode/
-node_modules/
