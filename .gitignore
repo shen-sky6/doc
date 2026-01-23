@@ -1,12 +1,7 @@
 
-# Obsidian 系统文件夹（包含缓存、工作区状态等）
-.obsidian/workspace
 .obsidian/workspace.json
-.obsidian/last-state.json
-.obsidian/cache/
+.obsidian/workspaces.json
 
-# 如果你不需要同步插件的设置（只同步笔记本身）
-# .obsidian/plugins/
 
 # 编程相关的配置（如你截图中的 .idea 文件夹）
 .idea/
