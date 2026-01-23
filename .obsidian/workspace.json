@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/Elasticsearch 主要查询语法的分类和详细说明，帮助您全面掌握其核心功能.md",
+                "file": "笔记/图片测/测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elasticsearch 主要查询语法的分类和详细说明，帮助您全面掌握其核心功能"
+              "title": "测试"
             }
           }
         ],
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/Elasticsearch 主要查询语法的分类和详细说明，帮助您全面掌握其核心功能.md",
+                "file": "笔记/图片测/测试.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Elasticsearch 主要查询语法的分类和详细说明，帮助您全面掌握其核心功能 的大纲"
+              "title": "测试 的大纲"
             }
           },
           {
@@ -253,6 +253,11 @@
   },
   "active": "69a1ecb7474195ff",
   "lastOpenFiles": [
+    "笔记/图片测/assets/新建 文本文档 (7).yaml",
+    "笔记/图片测/assets/Pasted image 20260123104615.png",
+    "笔记/图片测/assets",
+    "笔记/Elasticsearch 主要查询语法的分类和详细说明，帮助您全面掌握其核心功能.md",
+    "笔记/图片测/测试.md",
     "笔记/图片测/3123.md",
     "笔记/图片测/images/新建 文本文档 (7).txt",
     "笔记/图片测/images/Pasted image 20260123104215.png",
@@ -278,7 +283,6 @@
     "笔记/Java笔记/Java新特性 1.md",
     "笔记/git命令、规范.md",
     "笔记/ES+Java笔记.md",
-    "笔记/Elasticsearch 主要查询语法的分类和详细说明，帮助您全面掌握其核心功能.md",
     "笔记/Java笔记/多线程.md",
     "笔记/Java笔记/Java新特性.md",
     "笔记/linux/域名配置.md",
@@ -287,13 +291,11 @@
     "工作文档/cq一体化/版本发布.md",
     "工作文档/xgdata/工作问题记录.md",
     "草稿/未命名.md",
-    "工作文档/cq一体化/cq一体化工作记录.md",
     "草稿/未命名.md~",
     "hs_err_pid23864.log",
     "hs_err_pid11820.log",
     "笔记/Java笔记",
     "笔记/linux",
-    "草稿",
     "Pasted image 20250429150438.png",
     "Pasted image 20250429150557.png"
   ]
