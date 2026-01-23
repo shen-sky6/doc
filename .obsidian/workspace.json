@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿/未命名.md",
+                "file": "笔记/Java笔记/多线程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "多线程"
             }
           },
           {
@@ -92,21 +92,21 @@
             }
           },
           {
-            "id": "79a29b424df057f3",
+            "id": "26f8d15701567e10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/MySQL-8安装.md",
+                "file": "笔记/图片.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MySQL-8安装"
+              "title": "图片"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/未命名.md",
-                "followCursor": true,
+                "file": "笔记/图片.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "图片 的大纲"
             }
           },
           {
@@ -255,7 +255,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -265,45 +265,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "170c876b8e0c591b",
+  "active": "26f8d15701567e10",
   "lastOpenFiles": [
-    "linux/域名配置.md",
+    "ChatGPT Image 2025年11月13日 12_35_32.png",
+    "笔记/图片.md",
+    "Pasted image 20260123103110.png",
+    "2026-01-23.md",
+    "未命名.base",
+    "笔记/Java笔记/Java时间笔记.md",
+    "工作文档/es字段笔记.md",
+    "工作文档/蓝鹰数据源记录.md",
+    "笔记/linux/vpn指南.md",
+    "笔记/redis.md",
+    "笔记/netty ws.md",
+    "笔记/MySQL-8安装.md",
+    "笔记/linux/Linux常用命令.md",
+    "笔记/MySQL常见语句.md",
+    "笔记/Java笔记/Java新特性 1.md",
+    "笔记/git命令、规范.md",
+    "笔记/ES+Java笔记.md",
+    "笔记/Elasticsearch 主要查询语法的分类和详细说明，帮助您全面掌握其核心功能.md",
+    "笔记/Java笔记/多线程.md",
+    "笔记/Java笔记/Java新特性.md",
+    "笔记/linux/域名配置.md",
+    "笔记/linux/s-ui日志.md",
+    "工作文档/cq一体化/公安专网单向 FTP 文件交换实施方案.md",
+    "工作文档/cq一体化/版本发布.md",
+    "工作文档/xgdata/工作问题记录.md",
+    "草稿/未命名.md",
+    "工作文档/cq一体化/cq一体化工作记录.md",
+    "笔记/Elasticsearch 查询语法及其含义.md",
     "草稿/未命名.md~",
     "hs_err_pid23864.log",
     "hs_err_pid11820.log",
-    "Java笔记/Java新特性.md",
-    "Java笔记/多线程.md",
-    "Java笔记",
-    "工作文档/cq一体化/cq一体化工作记录.md",
-    "linux",
-    "工作文档/cq一体化/cq一体化sql脚本.md",
-    "笔记/git命令、规范.md",
-    "笔记/netty ws.md",
-    "笔记/Java时间笔记.md",
-    "工作文档/xgdata/工作问题记录.md",
-    "工作文档/cq一体化/cq一体化需求疑问.md",
-    "工作文档/cq一体化/cq一体化数据备份.md",
-    "笔记/Linux常用命令.md",
-    "笔记/MySQL-8安装.md",
-    "笔记/MySQL常见语句.md",
-    "笔记/Java新特性.md",
-    "笔记/ES+Java笔记.md",
-    "草稿/档案、行政资料综合储物柜设计.md",
-    "ChatGPT Image 2025年11月13日 12_35_32.png",
-    "笔记/Elasticsearch 主要查询语法的分类和详细说明，帮助您全面掌握其核心功能.md",
-    "笔记/Elasticsearch 查询语法及其含义.md",
-    "草稿/未命名.md",
-    "工作文档/haodongxi.md",
+    "笔记/Java笔记",
+    "笔记/linux",
     "草稿",
-    "工作文档/蓝鹰数据源记录.md",
-    "工作文档/草稿.md",
-    "笔记/Spring AI.md",
-    "笔记/vpn指南.md",
     "Pasted image 20250429150438.png",
     "工作文档/mcp",
     "未命名 1.base",
     "未命名 2.base",
-    "未命名.base",
     "Pasted image 20250429150557.png"
   ]
 }
